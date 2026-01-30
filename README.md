@@ -40,7 +40,3 @@ The system is designed to mirror real-world trading infrastructure while remaini
 ```bash
 pip install -r requirements.txt
 python live_paper_trading.py
-
-```bash
-pip install -r requirements.txt
-python live_paper_trading.py
